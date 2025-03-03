@@ -11,6 +11,7 @@ public class Person {
     }
 
     // Getter and Setter methods
+    // neuer Kommentar
     public String getFirstName() {
         return firstName;
     }
